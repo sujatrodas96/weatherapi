@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+  }
+  .wrapper .single{
+    color:black;
+    width:100%;
+    padding:10px;
+    text-align:center;
+    margin-bottom:10px;
+  }
+  .aqi-value{
+    font-family : "Noto Serif","Palatino Linotype","Book Antiqua","URW Palladio L";
+    font-size:40px;
+    font-weight:bold;
+  }
+  h1{
+    text-align: center;
+    font-size:3em;
+  }
+  .forecast-block{
+    background-color: grey;
+    width:20% !important;
+  }
+  .title{
+    background-color:#coral;
+    width: 100%;
+    color:#E0E0E0;
+    margin-bottom:0px;
+    padding-top:10px;
+    padding-bottom: 10px;
+  }
+  .bordered{
+    border:1px solid #fff;
+  }
+  .weather-icon{
+    width:40%;
+    font-weight: bold;
+    background-color: sky;
+    padding:10px;
+    border: 1px solid #fff;
+  }
